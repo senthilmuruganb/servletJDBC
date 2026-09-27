@@ -1,0 +1,10 @@
+com\vit\example\SearchServlet.class
+com\vit\model\User.class
+com\vit\dao\DBConnection.class
+com\vit\dao\TestConnection.class
+com\vit\example\HelloServlet.class
+com\vit\example\AuthServlet.class
+com\vit\dao\UserDAO.class
+com\vit\example\ListUserServlet.class
+com\vit\example\ResultServlet.class
+com\vit\example\UserListServlet.class
